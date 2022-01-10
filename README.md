@@ -1,4 +1,4 @@
-#SIMS
+# Sims
 
 Simple Inventory Management  P.... System
 
