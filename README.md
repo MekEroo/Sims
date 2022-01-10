@@ -8,7 +8,7 @@ Features:
 
 Add item - :white_check_mark: <br/>
 Take out item (which is actually the remove function made by v-adrian hehe) - :white_check_mark: <br/>
-Remove item - :soon: <br/>
+Remove item - :white_check_mark: <br/>
 List items - :white_check_mark: <br/>
 Update item - :soon: <br/>
 Search item - :soon: <br/>
