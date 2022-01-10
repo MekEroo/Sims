@@ -1,4 +1,6 @@
 # pyJect
 Simple Inventory Management  P.... System
 
-Bai insert P HAHAHA Para SIMPS XD
+Bai insert P HAHAHA Para SIMPS XD then delete this after HAHAHAHA
+
+
