@@ -36,7 +36,7 @@ def Selection(choice):
             ""
 
         case 's':
-            ""
+            search()
 
         case 'm':
             Display_Menu()
@@ -124,6 +124,20 @@ def remove():
     print()
     Display_Menu()
 
+def search():
+    item_description = input('Enter the name of the item: ')
+    
+    f = open('storage.txt', 'r')
+    search = f.readlines()
+    f.close
+    for i, line in enumerate(search):
+        if item_description in line:
+            for b in search[i:i+1]:
+                print('Item:     ', b, end='')
+            for c in search[i+1:i+2]:
+                print('Quantity: ', c, end='')
+                print('----------')
+                
 def list():
     f = open("storage.txt", 'r')
     for x in f.read():
